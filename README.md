@@ -5,6 +5,6 @@
 - 📫 Contact me via email: Amandaude@gmail.com. Mobile: +48 570575655
 
 <!---
-AmyJesus/AmyJesus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MandyJ/MandyJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
